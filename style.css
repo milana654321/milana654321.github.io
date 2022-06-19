@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    background-image: url(1627103488_30-kartinkin-com-p-voda-v-basseine-tekstura-krasivo-33.jpg);
+    background-attachment: fixed;
+    margin: 0;
+}
+header{
+    background-color:174361;
+    font-family: 'Nunito', ExtraBold 800 Italic;
+    font-size:90px;
+    display: flex;
+    align-items: center;
+    font-family: 'Nunito', SemiBold 600;
+    font-size:40px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    font-family: 'Nunito', Regular 400;
+    background-color: 1D2E52;
+}
+div{
+    background: linear-gradient(5CFFE2, 4DA9FF);
+}
+div>h1{
+    font-size:90px;
+    margin: 0;
+    background: white;
+    mix-blend-mode: screen;
+    font-family: 'Nunito', ExtraBold 800 Italic;
+}
+nav{
+    color: white;
+    font-family: 'Nunito', SemiBold 600;
+    font-size:40px;
+}
+main{
+    background-color: white;
+    border-radius: 30%;
+    margin: 5mm;
+    padding: 1cm;
+}
+h2{
+    font-size: 60px;
+    font-family: 'Nunito', SemiBold 600;
+}
+h3{
+    font-size: 50px;
+    font-family: 'Nunito', SemiBold 600;
+}
+p{
+    font-family: 'Nunito', SemiBold 600;
+    font-size:40px;
+    color: black;
+}
+article{
+    font-family: 'Nunito', Bold 700 Italic;
+    font-size:40px;
+}
